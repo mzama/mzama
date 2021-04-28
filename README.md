@@ -7,9 +7,7 @@ Through independent projects and online courses, I have been training myself as 
 I also enjoy working in Unity. I love to learn and am always looking for ways to improve my skills and capabilities.  
 
 ### I'm looking to create software to improve people's lives, and opportunities to learn and improve myself.   
-
-<br>
-
+  
 ## More about me! 
 [Website](https://matteozamaria.com/)   
 [LinkedIn](https://www.linkedin.com/in/matteozamaria/)  
