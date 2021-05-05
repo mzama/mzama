@@ -6,7 +6,7 @@ Whether a tool to help make life more convenient, or a fun or informative projec
 I am a self-taught full stack web developer and also enjoy game development through various projects in Unity. 
 I love to learn and am always looking for ways to improve my skills and capabilities.  
 
-####  My aim is to make software to improve people's while continuing to learn and grow myself.  
+####  My aim is to make software to improve people's lives while continuing to learn and grow myself.  
   
 ## More about me!  
 [Website](https://matteozamaria.com/)   
